@@ -1,6 +1,6 @@
 
 ## 🚀 Olá, seja bem vindo ao meu Git
-Me chamo Breno, estou no terceiro semestre da faculdade e este é o local em que deixo meus repositórios, pegue um  café e sinta-se a vontade.
+Me chamo Breno, estou no quinto semestre da faculdade e este é o local em que deixo meus repositórios, pegue um  café e sinta-se a vontade.
 
 ## 🛠 Linguagens e Ferramentas
 * HTML
